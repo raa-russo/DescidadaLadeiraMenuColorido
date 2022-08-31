@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1648067109 source:c:\users\windows\onedrive\documentos\linguagem c\projeto novo com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+
+1649095420 source:e:\primeiro semestre\linguagem c\projeto novo com menu rogerio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+

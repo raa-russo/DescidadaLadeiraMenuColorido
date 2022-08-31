@@ -1,0 +1,6 @@
+
+ Equipe 01 tempo de :50
+ Equipe 02 tempo de :2099856
+ Equipe 03 tempo de :4
+ Equipe 04 tempo de :0
+ Equipe 05 tempo de :8
